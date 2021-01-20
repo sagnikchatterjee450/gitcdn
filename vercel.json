@@ -1,7 +1,7 @@
 {
 
    "rewrites": [
-         { "source": "/", "destination": "https://gitfire-website.vercel.app" },
+         { "source": "/", "destination": "https://sagnikapps.ga" },
          { "source": "/gh/cdn/:git/:repo/:branch/:path", "destination": "/api/gh/customcdn" },
     { "source": "/gh/:git/:repo/:branch/:path", "destination": "/api/gh/beta" },
     { "source": "/infograchic", "destination": "/gitfire-infographic.jpg" }
